@@ -1,0 +1,40 @@
+_repo: Side-Show-Studies_23542
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Herford, Oliver
+    alias: Herford, O. (Oliver)
+    birthdate: 1863
+    deathdate: 1935
+    gutenberg_agent_id: '24852'
+    url: http://www.gutenberg.org/2009/agents/24852
+    wikipedia: http://en.wikipedia.org/wiki/Oliver_Herford
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Metcalfe, Francis
+    gutenberg_agent_id: '25903'
+    url: http://www.gutenberg.org/2009/agents/25903
+description: ''
+gutenberg_issued: '2007-11-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '23542'
+  lccn: '06011307'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Amusement parks -- Fiction'
+- !lcc 'PS'
+tableOfContents: The liberty of Franz and the rebellion of Fuzzy Wuzzy -- The bite
+  of a rattler and the sad fate of Big Pete -- The amorous baboon -- Feeding the serpents
+  and a grand transformation -- The lioness skirt dance and the inconsiderate python
+  -- The animal barometer and the eternal feminine -- Making a star lion and an interrupted
+  temperance meeting -- Kalsomining an elephant -- The hypnotic bear and the sentimental
+  lecturer -- The tragedy of the tigers and the power of hypnotism.
+title: Side Show Studies
+url: http://www.gutenberg.org/ebooks/23542
